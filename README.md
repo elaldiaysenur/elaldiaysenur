@@ -30,9 +30,6 @@ I'm a passionate Frontend developer from Turkey and I love being part of the dev
 
 [hackerrank]: https://www.hackerrank.com/elaldiaysenur0?hr_r=1
 
-<br><br>
-
-
 <br />
 <br />
 
