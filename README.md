@@ -67,5 +67,3 @@ I'm a passionate Frontend developer from Turkey and I love being part of the dev
 <br />
 
 [![Ayşe Nur's GitHub stats](https://github-readme-stats.vercel.app/api?username=elaldiaysenur&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/elaldiaysenur/github-readme-stats)
-
-![snake svg](https://github.com/elaldiaysenur/elaldiaysenur/blob/output/github-contribution-grid-snake.svg)
