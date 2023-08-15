@@ -6,7 +6,7 @@
   </a>
 </h1>
 
-## Junior Frontend  Developer
+## Junior Software  Developer
 I'm a passionate Frontend developer from Turkey and I love being part of the development of web technologies.
 
  ![Profile views](https://komarev.com/ghpvc/?username=elaldiaysenur)
